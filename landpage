@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Landing Page</TITLE>
+<style> type="text/css>"
+*{padding:0;margin:0;box-sizing;border-box;}
+header{
+width:100%;
+height:100%;
+background:url('')
+background-size:cover;
+}
+</style>
+</head>
+<body>
+<header>
+    <nav>
+<div class="logo">
+travel-x
+</div>
+<div class="menu">
+
+</body>
+</html>
